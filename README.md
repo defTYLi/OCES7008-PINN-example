@@ -12,7 +12,7 @@ $$
 -(\psi_{xx}+\psi_{yy}) = f(x,y)
 $$
 
-on a unit square with homogeneous boundary condition
+in a unit square with homogeneous boundary condition
 
 $$
 \psi = 0
